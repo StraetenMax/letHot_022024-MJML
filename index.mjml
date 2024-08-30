@@ -1,0 +1,248 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-text font-size="16px" padding="0px" font-weight="300" line-height="20px"/>
+            <mj-class name="d-section" padding="20px 32px" background-color="#ffffff"/>
+            <mj-class name="d-section-1" padding="20px 40px" background-color="#ffffff"/>
+            <mj-class name="d-Tadmin" padding="0px" align="center" font-size="10px" font-weight="400" line-height="12px" color="#282626" />
+            <mj-class name="d-button" padding="10px 20px" background-color="#C21718" color="#fff" font-size="13px" font-weight="400" text-transform="uppercase"/>
+            <mj-class name="d-titre" font-size="34px" font-weight="500" line-height="36px"color="#C21718" />
+            <mj-class name="d-chapeau" font-weight="700" />
+            <mj-class name="d-sous-titre" text-transform="uppercase" color="#74151E" />
+            <mj-class name="d-titre-small" font-weight="700" color="#c21718" font-size="20px" />
+            <mj-class name="d-question" color="#a0191d" font-weight="700" />
+            <mj-class name="d-reponse" padding-bottom="10px">
+            <mj-all font-family="Arial, sens-serif" />
+        </mj-attributes>
+        <mj-title>La MAN Hôtellerie</mj-title>
+        <mj-breakpoint width="480px" />
+    </mj-head>
+    <mj-body background-color="#efefff">
+    <mj-section padding="0px">
+        <mj-column padding="6px 0px">
+            <mj-text mj-class="d-Tadmin">
+            Si tu ne parviens pas à lire cet e-mail, clique ici
+            </mj-text>     
+        </mj-column>        
+    </mj-section>
+    <mj-section padding="0px" background-color="#ffffff">
+        <mj-column>
+            <mj-image padding="0px" src="https://img.mailinblue.com/3403292/images/content_library/original/65d735d29193db831c02577a.jpg" alt="" />
+            <mj-text text-transform="uppercase" padding="0px 40px">
+                <span style="font-weight:700;">Newsletter ecosup hôtellerie</span> | Numéro 1
+            </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-color="#ffffff">
+        <mj-column>
+            <mj-image padding="0px" src="https://img.mailinblue.com/3403292/images/content_library/original/65d7366245e5d1445f167f22.jpg" alt="" />
+            <mj-text mj-class="d-sous-titre" padding="6px 40px">
+                Dossier
+            </mj-text>
+            <mj-text mj-class="d-titre" padding="0px 40px 4px 40px">
+                L'hôtellerie et la restauration : des perspectives INCROYABLES !
+            </mj-text>
+            <mj-text mj-class="d-chapeau" padding="0px 40px">
+                Jamais la demande n'a été si forte, les entreprises vous attendent.
+            </mj-text>
+            <mj-text mj-class="d-chapeau" padding="0px 40px">
+                Formez vous maintenant et performez demain. A l'heure où de nombreux métiers vont disparaître avec la montée de l'IA, ce secteur déjà très porteur va encore demander plus de professionnels.
+            </mj-text>
+        </mj-column>
+    </mj-section>
+        <mj-section mj-class="d-section">
+            <mj-column padding="8px">
+                <mj-text mj-class="d-question">
+                    J'ai un bac général ou un bac pro, comment puis-je faire ce BTS de management hôtelier ?
+                </mj-text>
+                <mj-text mj-class="d-reponse">
+                    C'est en effet une particularité, il faut faire la MAN obligatoirement, c'est donc un BTS qui se fait en 3 ans.
+                </mj-text>
+                <mj-text mj-class="d-question">
+                    Qu'est-ce la MAN?
+                </mj-text>
+                <mj-text mj-class="d-reponse">
+                    Mise à niveau, en 1 an, où tu vas te former aux compétences métiers dans un programme dynamique et ludique. Tu ne verras pas passer le temps dans cette année. Tu vas apprendre les bases pour ensuite faire ton apprentissage.
+                </mj-text>
+            </mj-column>
+            <mj-column padding="8px">
+            <mj-text mj-class="d-question">
+                Combien coûte l'école ?   
+            </mj-text>
+            <mj-text mj-class="d-reponse">
+                C'est la bonne nouvelle ! Le BTS, le Bachelor et le Master se font en apprentissage, l'école est donc gratuite.
+            </mj-text>
+            <mj-text mj-class="d-question">
+                La MAN est gratuite aussi ?
+            </mj-text>
+            <mj-text mj-class="d-reponse">
+                Afin de bien te préparer et de te rendre très performant dans ton BTS, nous avons choisi de garder la MAN en scolaire. Tu pourras ainsi bénéficier tous les jours de nos installations techniques et de l'accompagnement pédagogique et bienveillant de nos enseignants.
+            </mj-text>
+            <mj-button mj-class="d-button">
+                Pour en savoir plus...
+            </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0px">
+            <mj-column width="600px">
+                <mj-spacer height="25px" container-background-color="#efefff"/>  
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="d-section" >
+            <mj-column padding="8px"> 
+            <mj-image fluid-on-mobile="true" padding="0" src="images/image1_032024.jpg" alt="" /> 
+            </mj-column>
+            <mj-column padding="8px">
+                <mj-text mj-class="d-sous-titre">
+                    Restaurant éphémère
+                </mj-text>
+                <mj-text mj-class="d-titre-small">
+                    L'enfance retrouvée
+                </mj-text>
+                <mj-text>
+                    à ecosup campus, les étudiants font peuve d'initiative et de maturité !!!
+                </mj-text>
+                <mj-text>
+                    une création intégralement portée par nos étudiants...
+                </mj-text>
+                <mj-button mj-class="d-button">
+                    à découvrir
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0px">
+            <mj-column width="600px">
+                <mj-spacer height="25px" container-background-color="#efefff"/>  
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="d-section">
+            <mj-column padding="8px">
+                <mj-image fluid-on-mobile="true" padding="0" src="images/image2_032024.jpg" alt="" />
+            </mj-column>
+            <mj-column padding="8px">
+            <mj-text mj-class="d-sous-titre">
+                Que sont-ils devenus ?
+            </mj-text>
+                <mj-text mj-class="d-titre-small">
+                    Elie Beghin
+                </mj-text>
+                <mj-text>
+                    Il en aura fallu de la passion à Elie Beghin, ancien étudiant de notre filière hôtelière pour devenir chef-adjoint du restaurant lillois Le Cerisier (une étoile au guide Michelin)...
+                </mj-text>
+                <mj-button mj-class="d-button">
+                    à découvrir
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0px">
+            <mj-column width="600px">
+                <mj-spacer height="25px" container-background-color="#efefff"/>  
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="d-section">
+            <mj-column width="512px">
+                <mj-text mj-class="d-titre-small" text-transform="uppercase">
+                    Rencontrons-nous
+                </mj-text>
+            </mj-column>
+            <mj-column width="173px" padding="8px"> 
+            <mj-text padding-top="10px" letter-spacing="-1px" container-background-color="#b9969a" font-size="24px" font-weight="500" color="#fff" text-transform="uppercase" align="center">
+                samedi
+            </mj-text>
+            <mj-text padding-top="6px" container-background-color="#b9969a" letter-spacing="-1px" font-size="32px" font-weight="800" color="#fff" text-transform="uppercase" align="center"> 
+                23 mars
+            </mj-text>
+            <mj-text padding-top="10px" container-background-color="#b9969a" font-size="18px" font-weight="400" color="#fff" align="center">
+                journée
+            </mj-text>
+            <mj-text container-background-color="#b9969a" font-size="18px" font-weight="400" color="#fff" align="center">
+                portes ouvertes
+            </mj-text>
+                <mj-text padding-top="6px" container-background-color="#b9969a" font-size="14px" font-weight="700" color="#fff" align="center">
+                    9h30 à 13 h
+                </mj-text>
+                <mj-button container-background-color="#b9969a" mj-class="d-button">
+                    s'inscrire
+                </mj-button>
+            </mj-column>
+            <mj-column width="174px" padding="8px">
+            <mj-text padding-top="10px" letter-spacing="-1px" container-background-color="#b9969a" font-size="24px" font-weight="500" color="#fff" text-transform="uppercase" align="center">
+                samedi
+            </mj-text>
+            <mj-text padding-top="6px" container-background-color="#b9969a" letter-spacing="-1px" font-size="32px" font-weight="800" color="#fff" text-transform="uppercase" align="center">
+                13 avril
+            </mj-text>
+            <mj-text padding-top="10px" container-background-color="#b9969a" font-size="18px" font-weight="400" color="#fff" align="center">
+                journée
+            </mj-text>
+            <mj-text container-background-color="#b9969a" font-size="18px" font-weight="400" color="#fff" align="center">
+                portes ouvertes
+            </mj-text>
+                <mj-text padding-top="6px" container-background-color="#b9969a" font-size="14px" font-weight="700" color="#fff" align="center">
+                    9h30 à 13 h
+                </mj-text>
+                <mj-button container-background-color="#b9969a" mj-class="d-button">
+                    s'inscrire
+                </mj-button>
+            </mj-column>
+            <mj-column width="173px" padding="8px">
+            <mj-text padding-top="10px" letter-spacing="-1px" container-background-color="#b9969a" font-size="24px" font-weight="500" color="#fff" text-transform="uppercase" align="center">
+                samedi
+            </mj-text>
+            <mj-text padding-top="6px" container-background-color="#b9969a" letter-spacing="-1px" font-size="32px" font-weight="800" color="#fff" text-transform="uppercase" align="center">
+                25 mai
+            </mj-text>
+            <mj-text padding-top="10px" container-background-color="#b9969a" font-size="18px" font-weight="400" color="#fff" align="center">
+                journée
+            </mj-text>
+            <mj-text container-background-color="#b9969a" font-size="18px" font-weight="400" color="#fff" align="center">
+                portes ouvertes
+            </mj-text>
+                <mj-text padding-top="6px" container-background-color="#b9969a" font-size="14px" font-weight="700" color="#fff" align="center">
+                    9h30 à 13 h
+                </mj-text>
+                <mj-button container-background-color="#b9969a" mj-class="d-button">
+                    s'inscrire
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <!--Footer-->
+        <mj-section mj-class="d-section" background-color="#c21718">
+            <mj-column padding="0px">
+            <mj-image padding="0px" width="187px" align="left" src="https://img.mailinblue.com/3403292/images/content_library/original/65d737569193db831c0257de.png" alt="" />
+            <mj-text font-size="12px" font-weight="400" color="#ffffff" line-height="15px">
+                17 place Charles et Albert Roussel
+            </mj-text>
+                <mj-text font-size="12px" font-weight="400" text-transform="uppercase" color="#ffffff" line-height="15px">
+                    59200 tourcoing
+                </mj-text >
+                <mj-text font-size="13px" font-weight="700" text-transform="uppercase" color="#ffffff" line-height="15px">
+                    tél. 03 20 70 06 06
+                </mj-text>
+                <mj-text font-size="12px" font-weight="400" color="#ffffff" line-height="15px">
+                    contact@ecosup-campus.fr
+                </mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-social padding="0" inner-padding="0 0 0 20px" align="right" icon-size="30px" mode="horizontal">
+                    <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/65d737889193db831c0257f0.png">
+                    </mj-social-element>
+                    <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/65d737a79193db831c0257f9.png">   
+                    </mj-social-element>
+                    <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/65d737d245e5d1445f167f8d.png">      
+                    </mj-social-element>
+                </mj-social>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0px">
+            <mj-column padding="6px 0px">
+                <mj-text mj-class="d-Tadmin">
+                    Pour être sûr(e) de recevoir nos communications, ajoute contact@ecosup-campus.fr dans ton carnet d'adresses.
+                </mj-text>
+                <mj-text mj-class="d-Tadmin">
+                    Pour te désincrire de nos communications par courriel, clique ici
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
